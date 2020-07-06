@@ -1,0 +1,10 @@
+
+.loading_box{
+    height: 100px;
+    width: 100px;
+    border: 6px solid darkslategrey;
+    border-radius: 50%;
+    border-top-color: dodgerblue;
+    /* border-left-color: floralwhite; */
+    animation: loading .5s linear infinite;
+}
